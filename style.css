@@ -354,7 +354,9 @@ article .icon{
   border-radius: 2rem;
   width: 90%;
   height: 90%;
+  aspect-ratio: 3/2;
 }
+
 
 .project-title{
   margin: 1rem;
